@@ -41,7 +41,7 @@ See the [examples](examples/).
 
 1. Clone repository (make sure you include `--recursive`):
    ```shell
-   git clone --recursive https://github.com/lbr-stack/pyfri.git
+   git clone https://github.com/Daniel-Robotic/kuka_pyfri
    ```
 2. Change directory:
    ```shell
